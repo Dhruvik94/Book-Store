@@ -1,0 +1,30 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "description": "\"# Book-Store\"",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhruvik94/Book-Store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhruvik94/Book-Store/issues"
+  },
+  "homepage": "https://github.com/Dhruvik94/Book-Store#readme",
+  "keywords": [],
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-ejs-layouts": "^2.5.0",
+    "mongoose": "^5.4.18"
+  },
+  "devDependencies": {
+    "dotenv": "^6.2.0",
+    "nodemon": "^1.18.10"
+  }
+}
