@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Dhruvik94/Book-Store#readme",
   "keywords": [],
   "dependencies": {
+    "body-parser": "^1.19.0",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "express-ejs-layouts": "^2.5.0",
